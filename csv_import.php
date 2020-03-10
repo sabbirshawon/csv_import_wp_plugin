@@ -61,6 +61,6 @@ function csv_file(){
 
     // add new function
 
-    include_once OP_PHARMA_DIR_PATH."/views/csv-import.php";
+    include_once CSV_IMPORT_DIR_PATH."/views/csv-import.php";
 
 }
